@@ -1,0 +1,1 @@
+export {sayHello, sayHi} from './Greetings'
